@@ -1,0 +1,6 @@
+---
+name: twig-template-engine
+---
+SilverStripe\View\SSViewer:
+  template_engines:
+    twig: SilverStripe\Twig\TemplateEngine
